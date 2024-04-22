@@ -1,4 +1,4 @@
-const square = (number) => {
-console.log(number*number);
+const square = (num) => {
+  return num*num;
 }
-square(7);
+console.log (square(7));
